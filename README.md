@@ -8,7 +8,7 @@ Visualize network traffic using Python, Wireshark, and Google Maps. Capture pack
 
 ## Installation
 
-git clone https://github.com/your-username/network-traffic-visualization.git
+git clone https://github.com/Monica107/Network-Traffic-Analyzer.git
 
 cd network-traffic-visualization
 pip install dpkt pygeoip
@@ -16,7 +16,7 @@ pip install dpkt pygeoip
 
 ## Usage
 1. Capture traffic in Wireshark and export as .pcap.
-2. Place `wire.pcap` in the project root.
+2. Place wire.pcap in the project root.
 3. Run:
 
       python main.py
